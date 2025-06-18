@@ -27,16 +27,14 @@ form{
   margin-bottom: 30px;
 }
 .instructions{
-   font-size:10px;
-  border-radius:50px;
+  border-radius:20px;
   color: #272044;
 }
 .submit-button{
-  margin-left: 10px;
+  margin-left:10px;
   background: #885df1;
   color: white;
   border: none;
-  font-size:10px;
   border-radius: 50px;
   }
 .poem{
